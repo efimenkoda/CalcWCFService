@@ -1,0 +1,25 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\My03_BusinessLogic.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\My03_BusinessLogic.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My03_BusinessLogic\obj\Debug\My03_BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My03_BusinessLogic\obj\Debug\My03_BusinessLogic.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My03_BusinessLogic\obj\Debug\My03_BusinessLogic.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\My01_Repository.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\My01_Repository.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\AutoMapper.xml
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\My03_BusinessLogic.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\My03_BusinessLogic.pdb
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\AutoMapper.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\My01_Repository.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\EntityFramework.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\My01_Repository.pdb
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\My01_Repository.dll.config
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\AutoMapper.xml
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\bin\Debug\EntityFramework.xml
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\obj\Debug\My03_BusinessLogic.csprojAssemblyReference.cache
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\obj\Debug\My03_BusinessLogic.csproj.CoreCompileInputs.cache
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\obj\Debug\My03_BusinessLogic.csproj.CopyComplete
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\obj\Debug\My03_BusinessLogic.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My03_BusinessLogic\obj\Debug\My03_BusinessLogic.pdb

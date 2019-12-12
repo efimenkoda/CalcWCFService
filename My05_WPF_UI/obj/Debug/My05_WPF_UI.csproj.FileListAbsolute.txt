@@ -1,0 +1,53 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My05_WPF_UI.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My05_WPF_UI.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My05_WPF_UI.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.g.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My03_BusinessLogic.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My01_Repository.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My03_BusinessLogic.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\AutoMapper.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My01_Repository.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\LogViewer.baml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\LogViewer.g.cs
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI_MarkupCompile.lref
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My05_WPF_UI.exe.config
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My05_WPF_UI.exe
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My05_WPF_UI.pdb
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My03_BusinessLogic.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\AutoMapper.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My01_Repository.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\EntityFramework.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My03_BusinessLogic.pdb
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\AutoMapper.xml
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My01_Repository.pdb
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\My01_Repository.dll.config
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\bin\Debug\EntityFramework.xml
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.csprojAssemblyReference.cache
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\MainWindow.baml
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\LogViewer.g.cs
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\MainWindow.g.cs
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\App.g.cs
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI_MarkupCompile.cache
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI_MarkupCompile.lref
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\LogViewer.baml
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.g.resources
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.Properties.Resources.resources
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.csproj.GenerateResource.cache
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.csproj.CoreCompileInputs.cache
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.csproj.CopyComplete
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.exe
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My05_WPF_UI\obj\Debug\My05_WPF_UI.pdb

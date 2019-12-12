@@ -1,0 +1,42 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My2_UnitTests.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My2_UnitTests.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My2_UnitTests.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My01_Repository.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My01_Repository.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\obj\Debug\My2_UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\obj\Debug\My2_UnitTests.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\obj\Debug\My2_UnitTests.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My03_BusinessLogic.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My03_BusinessLogic.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\AutoMapper.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My05_WPF_UI.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My05_WPF_UI.pdb
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My2_UnitTests.dll.config
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My2_UnitTests.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My2_UnitTests.pdb
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\EntityFramework.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My01_Repository.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My03_BusinessLogic.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My05_WPF_UI.exe
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\AutoMapper.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My01_Repository.pdb
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My01_Repository.dll.config
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My03_BusinessLogic.pdb
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My05_WPF_UI.pdb
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\My05_WPF_UI.exe.config
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\EntityFramework.xml
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\AutoMapper.xml
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\obj\Debug\My2_UnitTests.csprojAssemblyReference.cache
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\obj\Debug\My2_UnitTests.csproj.CoreCompileInputs.cache
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\obj\Debug\My2_UnitTests.csproj.CopyComplete
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\obj\Debug\My2_UnitTests.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My2_UnitTests\obj\Debug\My2_UnitTests.pdb

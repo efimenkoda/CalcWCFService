@@ -1,0 +1,20 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\My01_Repository.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\My01_Repository.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\My01_Repository.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My01_Repository\obj\Debug\My01_Repository.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ДЕ\MyCourse9_Calc_Enterprise\My01_Repository\obj\Debug\My01_Repository.pdb
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\My01_Repository.dll.config
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\My01_Repository.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\My01_Repository.pdb
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\EntityFramework.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\EntityFramework.SqlServer.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\EntityFramework.xml
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My01_Repository\bin\Debug\EntityFramework.SqlServer.xml
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My01_Repository\obj\Debug\My01_Repository.csproj.CoreCompileInputs.cache
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My01_Repository\obj\Debug\My01_Repository.csproj.CopyComplete
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My01_Repository\obj\Debug\My01_Repository.dll
+d:\Project\C#\VeemSoft\MyCourse9_Calc_Enterprise\My01_Repository\obj\Debug\My01_Repository.pdb
